@@ -31,7 +31,9 @@ A simplified port / emulation engine for the classic **Rayman (PlayStation 1)** 
  ## 🛠️ Build Requirements
 **To compile this project, you need the devkitPro environment installed and configured with:**
 •devkitARM
+
 •libctru
+
 •libfat
 
 ## 💻 How to Build
