@@ -37,6 +37,7 @@ A simplified port / emulation engine for the classic **Rayman (PlayStation 1)** 
 ## 💻 How to Build
 
 1.Ensure devkitPro is installed and environment variables ($DEVKITPRO, $DEVKITARM) are set.
+
 2. Open a terminal in the project root directory and run:
 ```Bash
 make
@@ -44,7 +45,9 @@ make
 3.The build process will produce a .3dsx executable file (and optionally a .cia file if configured in the Makefile).
 ## 🎮 How to Play
 1.Copy your Rayman game image renamed to Rayman.iso to the root of your SD Card (sdmc:/Rayman.iso).
+
 2.Copy the compiled .3dsx file to /3ds/Rayman/ on your SD Card.
+
 3.Launch the Homebrew Launcher on your Nintendo 3DS and start the application
 **Controls Mapping**
 Rayman Action (PS1)	3DS Control
