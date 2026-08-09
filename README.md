@@ -53,7 +53,7 @@ make
 
 3.Launch the Homebrew Launcher on your Nintendo 3DS and start the application
 
-**Controls Mapping**
+## **Controls Mapping**
 Rayman Action (PS1)	3DS Control
 Move (Left / Right)	D-Pad Left/Right or Circle Pad
 Look Up / Crouch	D-Pad Up/Down or Circle Pad
